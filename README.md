@@ -2,7 +2,7 @@ Dicționar românesc (bazat pe https://dexonline.ro/) pentru corectorul ortograf
 
 https://addons.mozilla.org/ro/firefox/addon/ortodex/
 
-Alternativă la [dicționarul](https://addons.mozilla.org/en-US/firefox/addon/romanian-spellchecking-diction/) lui [Archeus](https://www.archeus.ro/) și [rospell](https://rospell.wordpress.com/).
+Alternativă la [dicționarul](https://addons.mozilla.org/ro/firefox/addon/romanian-spellchecking-diction/) lui [Archeus](https://www.archeus.ro/) și [rospell](https://rospell.wordpress.com/).
 
 Dicționarul e generat de [acest script](https://github.com/dexonline/dexonline/blob/master/tools/rebuildFirefoxSpellChecker.php).
 
